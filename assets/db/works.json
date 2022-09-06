@@ -1,0 +1,44 @@
+{
+    "data_works": [
+        {
+            "head": "Разработка веб-ресурса",
+            "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente quisquam non dicta laborum voluptas eius natus, saepe deleniti hic harum, nisi magni soluta ipsam voluptatum explicabo et vel.",
+            "link": "#"
+        },
+        {
+            "head": "Разработка логотипа",
+            "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente quisquam non dicta laborum voluptas eius natus, saepe deleniti hic harum, nisi magni soluta ipsam voluptatum explicabo et vel.",
+            "link": "#"
+        },
+        {
+            "head": "Разработка интерактивного плаката",
+            "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente quisquam non dicta laborum voluptas eius natus, saepe deleniti hic harum, nisi magni soluta ipsam voluptatum explicabo et vel.",
+            "link": "#"
+        },
+        {
+            "head": "Разработка сайта",
+            "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente quisquam non dicta laborum voluptas eius natus, saepe deleniti hic harum, nisi magni soluta ipsam voluptatum explicabo et vel.",
+            "link": "#"
+        },
+        {
+            "head": "Посадка верстки на WP",
+            "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente quisquam non dicta laborum voluptas eius natus, saepe deleniti hic harum, nisi magni soluta ipsam voluptatum explicabo et vel.",
+            "link": "#"
+        },
+        {
+            "head": "Клиентское программирование",
+            "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente quisquam non dicta laborum voluptas eius natus, saepe deleniti hic harum, nisi magni soluta ipsam voluptatum explicabo et vel.",
+            "link": "#"
+        },
+        {
+            "head": "Дизайн сайта",
+            "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente quisquam non dicta laborum voluptas eius natus, saepe deleniti hic harum, nisi magni soluta ipsam voluptatum explicabo et vel.",
+            "link": "#"
+        },
+        {
+            "head": "Редактирование фотографии",
+            "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente quisquam non dicta laborum voluptas eius natus, saepe deleniti hic harum, nisi magni soluta ipsam voluptatum explicabo et vel.",
+            "link": "#"
+        }
+    ]
+}
